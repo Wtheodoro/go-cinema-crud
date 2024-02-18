@@ -2,6 +2,10 @@
 
 This is a simple project of a CRUD (Create, Read, Update, Delete) API to manage movie information. The API was developed in Golang and uses the Gorilla Mux package for HTTP routing.
 
+<p align="center">
+  <img src="go-movies.png" alt="gopher movies project banner">
+</p>
+
 ## Prerequisites
 
 Make sure you have Go installed on your machine. You can download and install it from the [official website](https://golang.org/).
